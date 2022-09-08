@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <img src="imagemsite.png">
+<h1>X-UA-Compatible</h1>
+<h2>Vendas de maquinas agricolas</h2>
+<h3>O site busca vender implementos agricolas com preço direto de fábrica e qualidade garantida.</h3>
+<p>Localizada na cidade de Apucarana, a loja traz para o mercado o que há de melhor para a sua lavoura.</p>
+<p>Nossa missão é proporcionar conforto operacional e tecnologia acessivel para o cliente.</p>
+<p>Oferecemos profissionais qualificados na assistência na área eletrônica. O atendimento de alta qualidade e rapidez, garantindo a satisfação dos clientes</p>
+</body>
+</html>
